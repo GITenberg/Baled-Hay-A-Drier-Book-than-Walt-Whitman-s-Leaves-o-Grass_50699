@@ -1,4 +1,5 @@
 _repo: Baled-Hay-A-Drier-Book-than-Walt-Whitman-s-Leaves-o-Grass_50699
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Opper, Frederick Burr
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '9918'
     url: http://www.gutenberg.org/2009/agents/9918
+covers:
+- cover_type: archival
+  image_path: 50699-h/images/cover.jpg
 creator:
   author:
     agent_name: Nye, Bill
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2704
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50699#Baled-Hay-A-Drier-Book-than-Walt-Whitman-s-Leaves-o-Grass
 gutenberg_issued: '2015-12-15'
 gutenberg_type: Text
 identifiers:
